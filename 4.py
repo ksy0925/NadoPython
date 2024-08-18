@@ -13,5 +13,3 @@ print("우리 집 반려동물은 " + animal + "인데, 이름이 " + name + "�
 print(name + "는 " + str(age) + "살이고, " + hobby + "을 아주 좋아해요.") #str() 은 자료형을 문자열로 바꿈
 
 
-
-name = "연탄이"
